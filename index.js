@@ -10,8 +10,8 @@ questionTwo = {
 }
 
 questionThree = {
-  question: "What is the name of the city I live in Germany? ",
-  answer: "Heilbronn"
+  question: "Which city do I live in Germany? ",
+  answer: "Stuttgart"
 }
 
 questionFour = {
